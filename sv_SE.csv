@@ -15318,3 +15318,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
 "Please specify a shipping method.","Vänligen välj en leveransmetod.",module,Magento_Quote
+"street","gata",module,Magento_Customer
+"city","stad",module,Magento_Customer
+"telephone","telefonnummer",module,Magento_Customer
